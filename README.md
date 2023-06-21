@@ -9,6 +9,9 @@ How to use it.
 3. Run it as administrator (Make sure antivirus is off) 
 4. Done
 
+
+### If you get a error like: HWID is Invalid, USE TMAC!
+
 (In short: NO its not a freakin virus, It's a false positive file because it changes your MAC-Adress)
 
 Simple Unbanner for Growtopia, edited &amp; taken (probably) from a old repo.
